@@ -1,2 +1,2 @@
-# pw-cli
+# prosperworks-cli
 Prosperworks App CLI tool
